@@ -1,35 +1,9 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# ProgramaciÛn con objetos I
+  # Lucas Santana
+  ¬°Hola! mi nombre es **Lucas Nahuel Santana**, tengo **25 a√±os** y actualmente estoy cursando mi quinto cuatrimestre en la **Tecnicatura en programaci√≥n**. Empec√© mi vida universitaria cursando Dise√±o gr√°fico all√° por 2017 en UAI para dejarlo 2 a√±os desp√∫es por disgustos que me hab√≠a llevado con dicha facultad. Luego, en 2019 empec√© a cursar Dise√±o gr√°fico en UM para NUEVAMENTE (jasdjkasjd) dejarlo tres a√±os despu√©s pero esta vez por motivos econ√≥micos. En el a√±o 2022 empec√© la tecnicatura en programaci√≥n en UNAHUR y no me arrepiento para nada, cada materia es un mundo nuevo para mi y me estoy nutriendo mucho de ello. Este cuatrimestre empec√© en simult√°neo la carrera de Dise√±o Industrial, ya que le pegaron un lavado de cara al programa de estudio y me llam√≥ muchisimo la atenci√≥n. Actualmente estoy cursando Programaci√≥n con objetos I, Estructura de datos e Introducci√≥n al dise√±o industrial.
 
-En esta materia aprender·n sobre la famosa POO _(OOP en inglÈs)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+  Respecto al tema laboral, empece a trabajar a los 18 a√±os en una heladeria en la que estuve por 5 a√±os. Lamentablemente perd√≠ algunas chances laborales como dise√±ador por la seguridad que me brindaba el trabajo en la heladeria, ya que en esos momentos mi sueldo iba puramente a la cuota de la universidad. En medio de todo eso me lanc√© como dise√±ador gr√°fico freelancer para tener un extra, y es a lo que me dedico hoy en dia. No es para nada un trabajo estable, hay meses enteros sin siquiera un trabajo pero la tranquilidad y la paz que me da poder dedicarme puramente al estudio y a mi futuro es sumamente satisfactoria.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisiÛn 1 **turno noche**: Martes 18 a 22hs y S·bado 10 a 12hs.
-* Horario comisiÛn 2 **turno maÒana**: MiÈrcoles 8 a 12hs y S·bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz·lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern·n Coniglio
-* Adem·s nos acompaÒan como colaboradores Valentino Chiappanni, Manuel NuÒez y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [P·gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [GuÌa R‡pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglÈs)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+  
+  
