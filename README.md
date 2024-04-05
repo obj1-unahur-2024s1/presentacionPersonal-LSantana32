@@ -10,4 +10,5 @@
   # Mis gustos
 
   Desde muy chico me crié con una computadora y siempre me llamaron la atención. La tecnología en sí es algo que me apasiona, desde elegirme un celular/armarme una computadora, hasta arreglar algo cómo por ejemplo un joystick, todo lleva detrás una investigación previa en la que me sumerjo horas y horas. Practicamente sin conocimiento me armé mi computadora que hasta hoy día (con actualizaciones claro está), a base de aprender para que sirve cada componente y cómo le podía sacar su máximo provecho. Me encanta saber el porqué de algo, cómo por ejemplo hacer este edit en Git, estuve dos horas tratando de entender en sí como funcionaba. 
+  
   Además de la tecnología, soy (lamentablemente) hincha de River y toca aguantar éstos momentos de tristeza y dolor asjdkasd. También me gusta muchísimo leer (libros, manga, comics) y ver series/peliculas. 
